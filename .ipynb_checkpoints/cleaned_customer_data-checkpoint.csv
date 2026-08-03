@@ -1,4 +1,4 @@
-customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+customer,st,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
 RB50392,Washington,Female,Master,7714.88,0,1000.0,0,Personal Auto,Four-Door Car,2.7
 QZ44356,Arizona,Female,Bachelor,697953.59,0,94.0,0,Personal Auto,Four-Door Car,1131.46
 AI49188,Nevada,Female,Bachelor,1288743.17,48767,108.0,0,Personal Auto,Two-Door Car,566.47
